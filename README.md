@@ -38,4 +38,3 @@ The Linux Mount Home script automates the process of mounting a secondary drive 
 This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Feel free to contribute or report issues! 🚀
-```
