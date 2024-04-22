@@ -1,9 +1,8 @@
-Absolutely! Let's enhance the README.md to make it more visually appealing:
 
 ```markdown
 # Linux Mount Home
 
-This script automates the process of mounting a secondary drive as the `/home` directory in Linux.
+The Linux Mount Home script automates the process of mounting a secondary drive as the `/home` directory in Linux. This script simplifies the task of expanding available storage for user home directories by allowing users to designate a secondary drive for home directory storage. It guides users through the process of selecting the drive and specifying the username for the home directory, making it easy to expand storage capacity and manage user data in Linux environments.
 
 ## Usage
 
@@ -34,6 +33,11 @@ This script automates the process of mounting a secondary drive as the `/home` d
 - Linux
 - Bash shell
 
+## License
+
+This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
+
 Feel free to contribute or report issues! 🚀
 ```
 
+You can save this content to a file named `README.md` and include it in your GitHub repository.
