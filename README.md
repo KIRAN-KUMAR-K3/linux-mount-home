@@ -39,5 +39,3 @@ This project is licensed under the terms of the MIT License. See the [LICENSE](L
 
 Feel free to contribute or report issues! 🚀
 ```
-
-You can save this content to a file named `README.md` and include it in your GitHub repository.
